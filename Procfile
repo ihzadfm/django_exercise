@@ -1,0 +1,1 @@
+web: gunicorn TutorMeet1.wsgi --log-file -
